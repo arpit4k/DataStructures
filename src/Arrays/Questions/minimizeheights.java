@@ -33,6 +33,6 @@ public class minimizeheights {
         int arr[] = {1, 15,10};
         int n = arr.length;
         int k = 6;
-        System.out.println("Maximum difference is "+minimize(arr, n, k));
+        System.out.println("Maximum difference is: "+minimize(arr, n, k));
     }
 }
