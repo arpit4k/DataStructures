@@ -1,6 +1,7 @@
 package Questions;
 
-import java.util.*;// This program is to merge two sorted arrays without adding extra space
+import java.util.*;
+// This program is to merge two sorted arrays without adding extra space
 
 public class mergetwosorted {
     static void merge(int arr1[], int arr2[]){
