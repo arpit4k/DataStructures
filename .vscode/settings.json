@@ -1,8 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "src/LinkedList",
         "src/Arrays/RotationAndArrangementReArrangement",
         "src/Arrays/RangeQueries",
         "src/Arrays",
-        "src/LinkedList"
+        "src/BinaryTree",
+        "src/Binarytree"
     ]
 }
