@@ -53,3 +53,5 @@ class insertionINORDER{
         tree.inorder();//DOnt need this if we only want to insert values and dont need to traverse
     }
 }
+
+
