@@ -38,7 +38,23 @@ class insertionINORDER{
             inorderRec(root.left);
             System.out.print(root.key+" ");
             inorderRec(root.right);
+        } 
+        // In case of PRE ORDER traversal Change this function to 
+        /*
+        if(root!=null){
+            System.out.print(root.key+" ");
+            inorderRec(root.left);
+            inorderRec(root.right);
         }
+         */
+        // In case of POST ORDER Traversal change the above function to
+        /* 
+        if(root!=null){
+            inorderRec(root.left);
+            inorderRec(root.right);
+            System.out.print(root.key+" ");
+        }
+         */
     }
     public static void main(String[] args) {
         insertionINORDER tree = new insertionINORDER();
